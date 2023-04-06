@@ -16,3 +16,8 @@ The heading attributes on the webpage fall in sequential order. This means that 
 ## Concise, Descriptive Title
 The title element on the webpage is concise and descriptive. This helps users understand the purpose of the content and improves SEO by providing search engines with more information about the content.
 By adhering to these accessibility standards, the webpage provides a better user experience for users with disabilities and improves the overall accessibility of the web.
+
+## Sources
+    Stackoverflow: Nothing much just how to fix positions of text and block
+    Help from classmates: Help with github and chaging the tags on HTML
+    ✨ Thats all ✨
