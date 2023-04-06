@@ -1,5 +1,5 @@
 # Readme file: Accessibility Standards
-This repository contains a webpage that meets accessibility standards. The webpage is designed to ensure that users with disabilities can access and navigate the content effectively. The webpage adheres to the following accessibility standards:
+This repository contains a webpage that meets accessibility standards. The webpage is designed to ensure that users with disabilities can access and navigate the content effectively. The webpage adheres to the following accessibility standards mainly:
 
 ## Semantic HTML Elements
 When viewing the source code, you will find that the webpage uses semantic HTML elements. This means that each element has a specific purpose and meaning, making it easier for users with disabilities to understand the content. The use of semantic HTML elements also helps search engines understand the content, improving SEO.
